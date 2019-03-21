@@ -15,6 +15,16 @@ eventslist:
       city: Aachen
       date: [2019, 2, 5, 19, 0]
       url: https://forum.fairphone.com/t/aachener-fairphone-stammtisch-fairphone-community-aachen/9703/87?u=ingo
+  - area: Amsterdam
+    events:
+    - name: "#EFCT19: European Fairphoners Community Trip to Amsterdam 2019"
+      lat_lng: [50.77368325,6.09108058635786]
+      venue: "Veganes Kulturrestaurant Pfannenzauber"
+      address: Suermondtplatz 12
+      zipcode: 52062
+      city: Aachen
+      date: [2019, 2, 5, 19, 0]
+      url: https://forum.fairphone.com/t/aachener-fairphone-stammtisch-fairphone-community-aachen/9703/87?u=ingo
   - area: Baden
     events:
     - name: "1. Badener Fairphone-Treffen"
@@ -77,14 +87,14 @@ eventslist:
       url: https://forum.fairphone.com/t/fairphoners-treffen-in-dusseldorf-02-09-2018/26302/40
   - area: Freiburg
     events:
-    - name: "2. Freiburg Heaven Fairphone-Stammtisch"
+    - name: "3. Freiburg Heaven Fairphone-Stammtisch"
       lat_lng: [47.9931271,7.8406043]
       venue: Chaos Computer Club Freiburg e.V.
       address: Adlerstraße 12a
       zipcode: 79098
       city: Freiburg
-      date: [2018, 9, 6, 18, 0]
-      url: https://forum.fairphone.com/t/freiburg-fairphoners-meetings-treffen-community/41085?u=stefan
+      date: [2019, 3, 26, 19, 0]
+      url: https://cccfr.de/calendar/calendar/2019-03-26-fairphone-stammtisch.html
   - area: Hamburg
     events:
     - name: "9. Hamburger Fairphone-Treffen"
